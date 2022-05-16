@@ -16,4 +16,4 @@ Essa página foi criada com base no <a href="https://www.youtube.com/watch?v=InA
 
 ## Imagens
 
-![Print da landing page de viagem](/img/screenshot.png)
+![Print da landing page de viagem](/visual-rules/img/screenshot.png)
