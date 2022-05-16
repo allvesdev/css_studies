@@ -1,0 +1,36 @@
+img {
+    height: 50px;
+    opacity: 0.5;
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    background-color: lightcyan;
+    background-image: url('/img/mountain-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 20px;
+}
+
+main {
+    text-align: right;
+}
+
+a {
+    color: white;
+}
+
+nav {
+    /*background-color: black;
+    opacity: 0.5;*/
+    background-color: rgba(0, 0, 0, 0.5);
+}
