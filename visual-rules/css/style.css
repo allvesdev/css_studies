@@ -5,6 +5,7 @@ img {
 body {
     font-family: 'Titillium Web', sans-serif;
     color: tomato;
+    background-color: lightcyan;
 }
 
 h1 {
@@ -22,4 +23,10 @@ main {
 
 a {
     color: tomato;
+}
+
+nav {
+    /* background-color: black;
+    opacity: 0.5; */
+    background-color: rgba(0, 0, 0, 0.5);
 }
