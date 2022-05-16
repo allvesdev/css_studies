@@ -5,8 +5,11 @@ img {
 
 body {
     font-family: 'Titillium Web', sans-serif;
-    color: tomato;
+    color: white;
     background-color: lightcyan;
+    background-image: url('/img/mountain-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
@@ -23,7 +26,7 @@ main {
 }
 
 a {
-    color: tomato;
+    color: white;
 }
 
 nav {
