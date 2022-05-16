@@ -8,7 +8,7 @@ Página simples criada para exibir uma receita de salada com frango assado. O fo
 
 CSS e VS Code.
 
-<em>Obs: neste estudo escrevi somente o arquivo style.css</em>
+<em>Obs: neste estudo escrevi somente o arquivo <a href="/healthy-recipes/css/style.css">style.css</a></em>
 
 ## Referências
 
