@@ -4,6 +4,7 @@ img {
 
 body {
     font-family: 'Titillium Web', sans-serif;
+    color: tomato;
 }
 
 h1 {
@@ -17,4 +18,8 @@ p {
 
 main {
     text-align: right;
+}
+
+a {
+    color: tomato;
 }
