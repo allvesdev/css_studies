@@ -14,3 +14,7 @@ h1 {
 p {
     font-size: 20px;
 }
+
+main {
+    text-align: right;
+}
