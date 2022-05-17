@@ -90,7 +90,7 @@ body {
     width: 200px;
     padding: 20px;
     margin: 40px auto;
-    border: 1px solid blue;
+    border: 1px solid #05A8AA;
   }
   
   .button:hover {
@@ -102,12 +102,16 @@ body {
   /* Content Nutrition */
   
   ul.nutrition {
+    padding: 20px;
   }
   
   ul.nutrition li {
     display: inline-block;
     background-color: #05A8AA;
     list-style: none;
+    width: 200px;
+    padding: 10px 20px;
+    margin-bottom: 3px;
   }
   
   .nutrition .category {
