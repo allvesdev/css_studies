@@ -28,7 +28,7 @@ body {
     font-size: 16px;
     font-weight: 100;
     letter-spacing: 2px;
-    margin: 10 0;
+    margin: 10px 0;
   }
   
   nav a {
@@ -40,7 +40,7 @@ body {
   .content {
     width: 100%;
     height: 500px;
-    margin: 10 auto;
+    margin: 10px auto;
     overflow: scroll;
   }
   
@@ -87,6 +87,10 @@ body {
     color: #05A8AA;
     display: block;
     font-weight: 700;
+    width: 200px;
+    padding: 20px;
+    margin: 40px auto;
+    border: 1px solid blue;
   }
   
   .button:hover {
