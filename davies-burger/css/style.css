@@ -39,6 +39,8 @@ body {
   
   .content {
     width: 100%;
+    height: 500px;
+    margin: 10 auto;
   }
   
   /* Content Header */
@@ -63,6 +65,7 @@ body {
   
   .content .body {
     width: 90%;
+    margin: 0 auto;
   }
   
   .body p {
